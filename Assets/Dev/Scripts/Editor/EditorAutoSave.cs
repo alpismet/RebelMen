@@ -6,7 +6,7 @@ namespace Dev.Scripts.Editor
     [InitializeOnLoad]
     static class EditorAutoSave
     {
-        private const string MenuName = "Tools/BITES/Editor Auto Save Before Run";
+        private const string MenuName = "Tools/Alp/Editor Auto Save Before Run";
         private static bool _isEnabled;
 
 

@@ -16,8 +16,8 @@ namespace Dev.Scripts.Editor
 
 
         //---------------------------------------------------------------------------------
-        [MenuItem("Tools/BITES/", priority = -int.MaxValue)]
-        [MenuItem("Tools/BITES/Asset Shortcut Window", priority = 100)]
+        [MenuItem("Tools/Alp/", priority = -int.MaxValue)]
+        [MenuItem("Tools/Alp/Asset Shortcut Window", priority = 100)]
         public static void ShowWindow()
         {
             GetWindow<AssetShortcutWindow>("Asset Shortcuts");

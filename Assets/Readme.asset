@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ce0e387261ddc34ba81ca7f2f1f7f73, type: 3}
   m_Name: Readme
   m_EditorClassIdentifier: 
-  icon: {fileID: 2800000, guid: 447f10eba86164d15a3569933f49c60a, type: 3}
-  title: Template
+  icon: {fileID: 2800000, guid: 3f42cdc336bb64b1ebebfa65ea04d01e, type: 3}
+  title: Rebel Men
   sections:
   - heading: Base Branch
     text: V0.0.1
     linkText: Gitlab Link
-    url: https://github.com/alpismet/Template.git
+    url: https://gitlabint.bites.com.tr/unity-team/template
   loadedLayout: 1
